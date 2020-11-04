@@ -1,4 +1,4 @@
-F5 SDK - Python 101
+F5 Automation Labs
 ==================
 
 |docs|
