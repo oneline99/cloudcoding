@@ -9,7 +9,7 @@ To view the F5 SDK documentation please visit:
 
 https://clouddocs.f5.com/sdk/f5-sdk-python/
 
-.. |docs| image:: 
+.. |docs|
     :alt: Documentation Status
     :scale: 40%
     :target: https://colab.research.google.com/github/oneline99/cloudcoding/blob/main/cloudcoding.ipynb
